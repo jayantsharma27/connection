@@ -1,0 +1,21 @@
+
+Using vscode :-
+
+1.choose Mongodb for vscode
+2.copy connection string
+3. Install Extension:Mongodb for vscode
+4.Add connection
+5.click connect
+6.paste connection string
+7.edit password
+8.connection successful
+9.click “+” to add database
+10.const database = '8july';;
+const collection = 'products';
+11.click play button
+12.blink the cluster
+13.right click over 8july>>products
+14.insert documents
+15.use('8july');
+16.db.getCollection('products').insertMany({..
+..});

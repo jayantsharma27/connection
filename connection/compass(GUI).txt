@@ -1,0 +1,12 @@
+Using compass :- 
+
+1.choose Compass(GUI)
+2.copy connection string
+3.open compass
+4.paste connection string
+5.edit password
+6.click connect
+7.create new database by clicking “+” and new collection 
+8.import data
+9.choose the productdata.jason file
+10.verify over Atlas

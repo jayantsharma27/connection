@@ -1,0 +1,7 @@
+To create a new database and add collection name as product :-
+
+1.login to Atlas
+2.click  Database
+3.click connect
+4.click view full instructions
+5.choose Developer Tools
