@@ -1,0 +1,12 @@
+Using shell :-
+1.choose Mongodb shell
+2.copy connection string
+3.open terminal
+4.paste string
+5.enter password
+6.show dbs
+7.use 8july
+8. db.createCollection('products')
+9.show collections
+10. db.products.insertOne([{id:1}])
+11. db.products.find()
